@@ -1,0 +1,14 @@
+{
+  "name": "acut-fulfillment/wms",
+  "description": "Official acut fulfillment WMS PHP-SDK",
+  "autoload": {
+    "psr-4": {
+      "AcutFulfillment\\Wms\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
