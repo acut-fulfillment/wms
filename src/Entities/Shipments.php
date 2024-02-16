@@ -1,6 +1,8 @@
 <?php
 
-class Shipments
+namespace AcutFulfillment\Wms\Entities;
+
+trait Shipments
 {
 
 }

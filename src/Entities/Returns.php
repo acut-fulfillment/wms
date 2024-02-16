@@ -1,6 +1,8 @@
 <?php
 
-class Returns
+namespace AcutFulfillment\Wms\Entities;
+
+trait Returns
 {
 
 }
