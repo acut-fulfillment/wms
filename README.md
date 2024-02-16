@@ -18,7 +18,7 @@ The recommended way to install this SDK is through [composer](https://getcompose
 
 
 ```bash
-composer require acut-fulfillment/wms --no-dev
+composer require acut-fulfillment/wms
 ```
 
 ## Getting started
